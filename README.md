@@ -6,16 +6,16 @@ A Next.js website for the Pasadena City College AI Club.
 
 ```bash
 # Install dependencies
-npm install
+pnpm install
 
 # Run development server
-npm run dev
+pnpm run dev
 
 # Build for production
-npm run build
+pnpm run build
 
 # Export static files
-npm run export
+pnpm run export
 ```
 
 ## GitHub Pages Deployment
@@ -44,7 +44,7 @@ If you prefer to deploy manually:
 
 ```bash
 # Build and export the site
-npm run export
+pnpm run export
 
 # The static files will be in the `out` directory
 # You can then upload these files to GitHub Pages manually
