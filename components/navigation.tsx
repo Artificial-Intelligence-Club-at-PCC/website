@@ -21,9 +21,11 @@ export function Navigation() {
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
-            <div className="flex items-center justify-center w-10 h-10 bg-primary rounded-lg">
-              <Brain className="h-6 w-6 text-primary-foreground" />
-            </div>
+            <img
+              src="/club-logo.png"
+              alt="AI Club Logo"
+              className="w-10 h-10 rounded-lg object-cover"
+            />
             <div className="flex flex-col">
               <span className="font-serif font-bold text-lg text-foreground">PCC AI Club</span>
               <span className="text-xs text-muted-foreground">Pasadena City College</span>

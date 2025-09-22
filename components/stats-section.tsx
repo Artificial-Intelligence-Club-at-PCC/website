@@ -3,23 +3,23 @@ import { Card, CardContent } from "@/components/ui/card"
 const stats = [
   {
     number: "150+",
-    label: "Active Members",
+    label: "Members",
     description: "Students passionate about AI",
   },
   {
-    number: "25+",
-    label: "Projects Completed",
-    description: "Real-world AI applications",
-  },
+    number: "10+",
+    label: "Partnerships",  
+    description: "Collaborations with clubs and organizations",
+  }, 
   {
-    number: "50+",
-    label: "Workshops Held",
+    number: "7+",
+    label: "Events Held",
     description: "Learning opportunities",
-  },
+  }, 
   {
-    number: "15+",
-    label: "Industry Partners",
-    description: "Professional connections",
+    number: "2024",
+    label: "Growing Community Since",
+    description: "Building the future of AI at PCC",
   },
 ]
 

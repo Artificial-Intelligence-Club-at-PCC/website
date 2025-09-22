@@ -9,9 +9,11 @@ export function Footer() {
           {/* Logo and Description */}
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
-              <div className="flex items-center justify-center w-10 h-10 bg-primary rounded-lg">
-                <Brain className="h-6 w-6 text-primary-foreground" />
-              </div>
+              <img
+                src="/club-logo.png"
+                alt="AI Club Logo"
+                className="w-10 h-10 rounded-lg object-cover"
+              />
               <div className="flex flex-col">
                 <span className="font-serif font-bold text-lg text-foreground">PCC AI Club</span>
                 <span className="text-sm text-muted-foreground">Pasadena City College</span>
@@ -56,15 +58,15 @@ export function Footer() {
             <ul className="space-y-3">
               <li className="flex items-center space-x-2 text-sm text-muted-foreground">
                 <Mail className="h-4 w-4" />
-                <span>aiclub@pasadena.edu</span>
+                <span>aimlclub.pcc@gmail.com</span>
               </li>
               <li className="flex items-center space-x-2 text-sm text-muted-foreground">
                 <MapPin className="h-4 w-4" />
-                <span>Pasadena City College</span>
+                <span>R 206 - Pasadena City College</span>
               </li>
               <li className="flex items-center space-x-2 text-sm text-muted-foreground">
                 <Calendar className="h-4 w-4" />
-                <span>Meetings: Fridays 3PM</span>
+                <span>Meetings: Thursdays 12 PM - 1 PM</span>
               </li>
             </ul>
           </div>

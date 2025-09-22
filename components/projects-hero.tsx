@@ -5,7 +5,7 @@ const stats = [
   {
     icon: Code,
     number: "25+",
-    label: "Projects Completed",
+    label: "Ongoing Projects",
     description: "Innovative AI solutions",
   },
   {

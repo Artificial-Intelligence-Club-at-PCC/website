@@ -5,19 +5,19 @@
 
 :root {
   /* Updated color tokens to match AI club design brief */
-  --background: oklch(1 0 0);
+  --background: oklch(94.135% 0.01361 241.192);
   --foreground: oklch(0.22 0 0);
-  --card: oklch(0.97 0 0);
+  --card: oklch(97.015% 0.00011 271.152);
   --card-foreground: oklch(0.22 0 0);
   --popover: oklch(1 0 0);
   --popover-foreground: oklch(0.22 0 0);
-  --primary: oklch(0.45 0.15 162);
+  --primary: oklch(33.408% 0.11003 255.01);
   --primary-foreground: oklch(1 0 0);
   --secondary: oklch(0.55 0.15 162);
   --secondary-foreground: oklch(1 0 0);
   --muted: oklch(0.97 0 0);
   --muted-foreground: oklch(0.22 0 0);
-  --accent: oklch(0.55 0.15 162);
+  --accent: oklch(50.521% 0.08831 214.921);
   --accent-foreground: oklch(1 0 0);
   --destructive: oklch(0.577 0.245 27.325);
   --destructive-foreground: oklch(1 0 0);
@@ -33,11 +33,11 @@
   --sidebar: oklch(0.97 0 0);
   --sidebar-foreground: oklch(0.22 0 0);
   --sidebar-primary: oklch(1 0 0);
-  --sidebar-primary-foreground: oklch(0.45 0.15 162);
-  --sidebar-accent: oklch(0.55 0.15 162);
+  --sidebar-primary-foreground: oklch(28.462% 0.13921 262.699);
+  --sidebar-accent: oklch(47.427% 0.0994 234.104);
   --sidebar-accent-foreground: oklch(1 0 0);
   --sidebar-border: oklch(0.92 0 0);
-  --sidebar-ring: oklch(0.45 0.15 162 / 0.5);
+  --sidebar-ring: oklch(41.825% 0.07937 225.167 / 0.5);
 }
 
 .dark {
@@ -48,7 +48,7 @@
   --card-foreground: oklch(0.98 0 0);
   --popover: oklch(0.08 0 0);
   --popover-foreground: oklch(0.98 0 0);
-  --primary: oklch(0.55 0.15 162);
+  --primary: oklch(31.854% 0.17892 263.86);
   --primary-foreground: oklch(0.08 0 0);
   --secondary: oklch(0.18 0 0);
   --secondary-foreground: oklch(0.98 0 0);
@@ -60,7 +60,7 @@
   --destructive-foreground: oklch(0.637 0.237 25.331);
   --border: oklch(0.18 0 0);
   --input: oklch(0.18 0 0);
-  --ring: oklch(0.55 0.15 162 / 0.5);
+  --ring: oklch(34.664% 0.16089 262.06 / 0.5);
   --chart-1: oklch(0.55 0.15 162);
   --chart-2: oklch(0.65 0.15 162);
   --chart-3: oklch(0.75 0.2 45);
@@ -68,12 +68,12 @@
   --chart-5: oklch(0.645 0.246 16.439);
   --sidebar: oklch(0.12 0 0);
   --sidebar-foreground: oklch(0.98 0 0);
-  --sidebar-primary: oklch(0.55 0.15 162);
+  --sidebar-primary: oklch(43.856% 0.11158 245.507);
   --sidebar-primary-foreground: oklch(0.98 0 0);
   --sidebar-accent: oklch(0.18 0 0);
   --sidebar-accent-foreground: oklch(0.98 0 0);
   --sidebar-border: oklch(0.18 0 0);
-  --sidebar-ring: oklch(0.55 0.15 162 / 0.5);
+  --sidebar-ring: oklch(29.02% 0.19771 265.827 / 0.5);
 }
 
 /* Updated font configuration for Playfair Display and Source Sans Pro */

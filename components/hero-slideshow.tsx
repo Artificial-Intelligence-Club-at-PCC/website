@@ -7,21 +7,21 @@ import { Button } from "@/components/ui/button"
 const slides = [
   {
     id: 1,
-    image: "/ai-club-students-working-on-machine-learning-proje.png",
+    image: "/ai-club-rush-with-robot-dog.png",
     title: "Innovating the Future",
     subtitle: "Our members are building tomorrow's AI solutions today",
     description: "From neural networks to computer vision, we're pushing the boundaries of what's possible.",
   },
   {
     id: 2,
-    image: "/ai-club-presentation-with-students-presenting-to-a.png",
+    image: "/ai-club-ai-horizons-group-pic.png",
     title: "Knowledge Sharing",
     subtitle: "Weekly presentations and workshops",
-    description: "Learn from industry experts and share your own discoveries with fellow AI enthusiasts.",
+    description: "Learn and share your own discoveries with fellow AI enthusiasts.",
   },
   {
     id: 3,
-    image: "/ai-club-hackathon-event-with-teams-collaborating-o.png",
+    image: "/ai-club-ai-horizons-booth.png",
     title: "Collaborative Projects",
     subtitle: "Building AI solutions together",
     description: "Join forces with talented peers to create impactful AI applications and research.",
